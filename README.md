@@ -143,3 +143,18 @@ This detailed information will significantly help in diagnosing the problem.
 
 - Special thanks to [dogelition](https://linustechtips.com/topic/1145733-get-dolby-vision-instead-of-hdr10-on-windows-10/?do=findComment&comment=16314256) for the initial guide.
 - Thanks to [djnice](https://github.com/balu100/dolby-vision-for-windows/issues/1) for the VSVDB Calc tool.
+
+<!-- chaython-funding:start -->
+## Support development
+
+[GitHub Sponsors](https://github.com/sponsors/Chaython) · [Patreon](https://patreon.com/Chaython) · [Buy Me a Coffee](https://buymeacoffee.com/chaython) · [PayPal](https://paypal.me/ChaythonM)
+
+Crypto donations:
+
+- ETH (Ethereum): `0x201B6E0B0282BBAE1592C24f9CbD39009A70F7d7`
+- BTC (Bitcoin): `32o7JmXgFcs4R1SbcLLVKQCRw9KHkhneJi`
+- SOL (Solana): `BDicyUL9zizDeYBLw8oBwotv6jtHotLLQD7Bcqg2atLk`
+- USDC (network must be confirmed): `0xBeD35dcAd9F1A32459B3C0DF004371EBE939E760`
+
+Confirm the blockchain network before sending USDC.
+<!-- chaython-funding:end -->
